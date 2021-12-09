@@ -1,2 +1,2 @@
 # MQ135-Librarry
-MQ135 libraray for Arduino and ESP
+MQ135 library for Arduino and ESP
